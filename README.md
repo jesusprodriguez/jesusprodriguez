@@ -1,17 +1,4 @@
-## Hi there 👋
-
-<!--
-**jesusprodriguez/jesusprodriguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...# 👨‍💻 Jesús Pedro Rodríguez Castro
+# 👨‍💻 Jesús Pedro Rodríguez Castro
 
 🎓 **Scrum Master y Desarrollador Full Stack** con más de 10 años de experiencia, especializado en .NET Core, Angular y arquitecturas orientadas al dominio (DDD). Actualmente trabajando en UNIR (Universidad Internacional de La Rioja) como Responsable de Scrum y Analista de Programación, liderando equipos y desarrollando soluciones innovadoras para entornos educativos.
 
@@ -77,6 +64,3 @@ Siempre estoy **investigando sobre Python y tecnologías emergentes** que marcan
 ---
 
 > "La mejor manera de predecir el futuro es construirlo" – Alan Kay
-
-- ⚡ Fun fact: ...
--->
